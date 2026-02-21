@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:00ff41&section=header&text=WAKE%20UP%2C%20ALI...&fontColor=00ff41&fontAlignY=35&animation=fadeIn" width="100%" alt="Matrix Header" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJkbzA1a3E0MGw1NjZzdm8zazluZ3o0cThncm04dDVvbmFrcTNjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100%" alt="Matrix Rain" />
   <br />
   <a href="https://github.com/Scatheus">
     <img src="giphy.gif" alt="Ali Essabbar" width="220" style="border-radius: 50%; width: 220px; height: 220px; object-fit: cover; border: 3px solid #00ff41; box-shadow: 0 0 35px rgba(0, 255, 65, 0.70), 0 0 15px rgba(0, 255, 65, 1) inset;" />
@@ -16,13 +15,19 @@
 
 <br/>
 
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
+
 <div align="center">
-  <img src="typing-animation.svg" alt="Terminal Initialization Sequence" width="800" />
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=650&color=00FF41&center=true&vCenter=true&width=860&lines=Initializing+neural+link...;Loading+toolchain...;Building+secure+systems+%26+fast+UIs...;If+you+see+this%2C+you%27re+in+the+Matrix." alt="Matrix Typing" />
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="20" height="20" /> ABOUT_ME.sh
 
@@ -34,6 +39,10 @@
 - **[ TRGT ]** I write heavily optimized code designed to withstand load and threat vectors.
 
 <br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="20" height="20" /> TECH_ARSENAL
 
@@ -52,6 +61,16 @@
 
 <br/>
 
+<div align="center">
+  <img src="matrix-skills.svg" width="100%" alt="Skill Matrix Scan" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
+
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-secret.svg" width="20" height="20" /> OPERATOR_PROFILE
 
 <div align="center">
@@ -61,6 +80,10 @@
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="20" height="20" /> ESTABLISH_CONNECTION
 
@@ -79,12 +102,18 @@
 </div>
 
 <br/>
+
 <div align="center">
-  <!-- Replaced broken image with a sleek simple visitor shield using hacker styling -->
+  <img src="https://img.shields.io/badge/SYSTEM_BREACH-ACCESS_GRANTED-000000?style=for-the-badge&labelColor=0a0a0a&color=00ff41" alt="System Breach" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Scatheus&style=for-the-badge&color=000000&labelColor=0a0a0a&label=PAGE_HITS" alt="Visitor Count" />
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" /> SYSTEM_TELEMETRY
 
@@ -102,12 +131,33 @@
 
 <br/>
 
+<div align="center">
+  <p><strong>CORE_LOAD_LEVELS:</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Scatheus&show_icons=true&hide_title=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9bff9b&icon_color=00ff41" height="140" alt="Core Load" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="matrix-divider.svg" width="100%" alt="Divider" />
+</p>
+
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/ghost.svg" width="20" height="20" /> CONTRIBUTION_SIMULATION
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scatheus/Scatheus/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scatheus/Scatheus/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Scatheus/Scatheus/output/pacman-contribution-graph.svg">
-  </picture>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scatheus&bg_color=000000&color=00ff41&line=00ff41&point=9bff9b&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  </p>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Scatheus&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="100%" alt="Ghost Trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=250&color=00FF41&center=true&vCenter=true&width=900&lines=%5Broot%40matrix%5D%24+whoami;ali_essabbar;sudo+init+stack+--secure+--fast;deploy+--region=eu-west-1+--status=stable;scan+--ports+1-65535+--mode=stealth;exit" alt="Infinite Terminal" />
+</p>
