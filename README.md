@@ -1,84 +1,71 @@
 <div align="center">
   <br />
-  <!-- THE FAKE PFP TRICK: High-Quality GIF Avatar -->
+
+  <!-- THE FAKE PFP TRICK: Matrix Giphy Cat -->
+  <!-- Styled to be perfectly circular with a harsh green hacker glow -->
   <a href="https://github.com/Scatheus">
-    <img src="dMqxHmPPA8fd.gif" alt="Ali Essabbar" width="220" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4), 0 0 50px rgba(255, 0, 255, 0.2);" />
+    <img src="giphy.gif" alt="Ali Essabbar" width="220" style="border-radius: 50%; width: 220px; height: 220px; object-fit: cover; border: 3px solid #0f0; box-shadow: 0 0 35px rgba(0, 255, 0, 0.7), 0 0 15px rgba(0, 255, 0, 1) inset;" />
   </a>
   
   <br />
-  <h1>Hi there, I'm Ali Essabbar <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="30px"></h1>
-  <p align="center">
-    <strong>Full Stack Web Developer</strong> 🚀
+  
+  <h1 align="center" style="color: #0f0; margin-bottom: 0;">Ali Essabbar</h1>
+  <p align="center" style="color: #55ff55;">
+    <strong>> [ Full Stack Web Developer & Security Enthusiast ]_</strong>
     <br/>
-    Specializing in React, Python, Supabase, and Laravel.
+    Specializing in React, Python, Laravel, MongoDB, and Pentesting.
   </p>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="typing-animation.svg" alt="Typing Animation Console" width="800" />
+  <!-- The mesmerizing distraction: animated matrix terminal with rain and radar -->
+  <img src="typing-animation.svg" alt="Terminal Initialization Sequence" width="800" />
 </div>
 
 <br/>
 
-## 🌌 About Me
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="20" height="20" /> ABOUT_ME.sh
 
-> **"Turning complex logic into beautiful, user-centric web applications."**
+> **"Turning complex logic into secure, scalable, and optimized systems."**
 
-- 🎓 **2nd Year Stagiaire** in Développement Digital - Web Full Stack (ISTA).
-- 💻 I build **modern SPAs, reliable REST APIs**, and integrate powerful databases.
-- 🚀 Creator of **Coq Magic**, a comprehensive Restaurant Management System featuring Real-time edge functions and Supabase.
-- 🕵️‍♂️ Passionate about **Web Security** & **Open Source**.
+- **[ CORE ]** Systems Engineer focusing on **modern SPAs, robust REST APIs**, and database architecture.
+- **[ STACK ]** Deep expertise across the entire stack, optimizing latency and ensuring high availability.
+- **[ SEC ]** Passionate about Web Security, System Architectures, and Open Source.
+- **[ TRGT ]** I write heavily optimized code designed to withstand load and threat vectors.
 
 <br/>
 
-## 🛠️ Tech Stack & Arsenal
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="20" height="20" /> TECH_ARSENAL
 
 <div align="center">
 
-### Frontend
+### > FRONTEND_MODULES
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,css,html,tailwind,bootstrap,vite,figma&theme=dark" /></a>
 
-### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,php,nodejs,laravel,supabase,mysql,mongodb&theme=dark" /></a>
+### > BACKEND_&_DATABASES
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,php,nodejs,laravel,mysql,mongodb,dynamodb,redis&theme=dark" /></a>
 
-### Tools & DevOps
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,kali&theme=dark" /></a>
+### > SEC_TOOLS_&_DEVOPS
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,nmap,git,github,gitlab,bash,vercel,vscode&theme=dark" /></a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
-
-To match our **Neon Cyan & Magenta** theme, let's keep the stats gorgeous.
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="20" height="20" /> ESTABLISH_CONNECTION
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scatheus&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff00ff" alt="Ali's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scatheus&theme=tokyonight&hide_border=true&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff" alt="Ali's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Coq Magic RMS](#)** | Complete PWA for restaurant management with real-time orders, staff dashboards, and thermal printing support. | `React` `Supabase` `TailwindCSS` `Vercel` |
-| **[Intern Management CRUD](#)** | Laravel portal providing secure 3-module authentication to manage students, enrollments, and grades. | `Laravel` `MySQL` `Bootstrap` |
-| **[Salmane eCommerce](#)** | Shopping mall template with dynamic categories and interactive baskets. | `HTML/CSS` `JS` `PHP` |
-
-<br/>
-
-## 📬 Let's Connect
-
-<div align="center">
-  <a href="mailto:ali.essabbar.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <br />
+  <!-- Clickable cleanly without gaps -->
+  <a href="mailto:ali.essabbar.it@gmail.com" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/SECURE_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=0a0a0a&color=00ff00" alt="Connect Securely via Email" />
   </a>
 </div>
 
 <br/>
 <div align="center">
-  <i>Visitor Count</i><br/>
-  <img src="https://profile-counter.glitch.me/Scatheus/count.svg" />
+  <!-- Replaced broken image with a sleek simple visitor shield using hacker styling -->
+  <img src="https://komarev.com/ghpvc/?username=Scatheus&style=for-the-badge&color=000000&labelColor=0a0a0a&label=PAGE_HITS" alt="Visitor Count" />
 </div>
