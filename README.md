@@ -9,7 +9,7 @@
   <p align="center" style="color: #9bff9b;">
     <strong>> [ Full Stack Web Developer & Security Enthusiast ]_</strong>
     <br/>
-    Specializing in React, Python, Laravel, MongoDB, and Pentesting.
+    Specializing in React, Laravel, MongoDB, MySQL, and Python.
   </p>
 </div>
 
@@ -93,7 +93,7 @@
   <a href="mailto:ali.essabbar.it@gmail.com" style="display:inline-block;">
     <img src="https://img.shields.io/badge/SECURE_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=0a0a0a&color=00ff00" alt="Connect Securely via Email" />
   </a>
-  <a href="https://www.linkedin.com/in/" style="display:inline-block;">
+  <a href="https://www.linkedin.com/in/ali-essabbar-3461753b2/" style="display:inline-block;">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a&color=00ff41" alt="LinkedIn" />
   </a>
   <a href="https://x.com/" style="display:inline-block;">
@@ -118,23 +118,14 @@
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" /> SYSTEM_TELEMETRY
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Scatheus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=9bff9b&stroke=00ff41" height="160" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Scatheus&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9bff9b&icon_color=00ff41&ring_color=00ff41" height="160" alt="Stats" />
+  <img src="matrix-telemetry.svg" width="100%" alt="System Telemetry" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scatheus&layout=compact&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9bff9b" height="160" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Scatheus&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="160" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p><strong>CORE_LOAD_LEVELS:</strong></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Scatheus&show_icons=true&hide_title=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9bff9b&icon_color=00ff41" height="140" alt="Core Load" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com" width="100%" />
+</p>
 
 <br/>
 
@@ -151,10 +142,6 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Scatheus&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="100%" alt="Ghost Trophies" />
-</p>
 
 <br/>
 
